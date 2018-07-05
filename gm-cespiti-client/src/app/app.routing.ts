@@ -83,8 +83,8 @@ export const routes: Routes = [
         loadChildren: './views/widgets/widgets.module#WidgetsModule'
       },
       {
-        path: 'anagrafiche',
-        loadChildren: './views/anagrafiche/anagrafiche.module#AnagraficheModule'
+        path: 'anagrafica',
+        loadChildren: './views/anagrafica/anagrafica.module#AnagraficaModule'
       }
     ]
   }

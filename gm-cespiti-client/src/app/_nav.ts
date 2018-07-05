@@ -220,38 +220,38 @@ export const navItems = [
     name: 'Gestione'
   },
   {
-    name: 'Anagrafiche',
-    url: '/anagrafiche',
+    name: 'Anagrafica',
+    url: '/anagrafica',
     icon: 'icon-people',
     children: [
       {
-        name: 'Anagrafica',
-        url: '/anagrafiche/anagrafica',
+        name: 'Anagrafiche',
+        url: '/anagrafica/anagrafiche',
         icon: 'icon-star'
       },
       {
         name: 'Utenti',
-        url: '/anagrafiche/utenti',
+        url: '/anagrafica/utenti',
         icon: 'icon-star'
       },
       {
         name: 'Dipendenti',
-        url: '/anagrafiche/dipendenti',
+        url: '/anagrafica/dipendenti',
         icon: 'icon-star'
       },
       {
         name: 'Clienti',
-        url: '/anagrafiche/clienti',
+        url: '/anagrafica/clienti',
         icon: 'icon-star'
       },
       {
         name: 'Fornitori',
-        url: '/anagrafiche/fornitori',
+        url: '/anagrafica/fornitori',
         icon: 'icon-star'
       },
       {
         name: 'Società',
-        url: '/anagrafiche/societa',
+        url: '/anagrafica/societa',
         icon: 'icon-star'
       }
     ]
